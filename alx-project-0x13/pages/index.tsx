@@ -1,3 +1,4 @@
+
 import ImageCard from "@/components/common/ImageCard";
 import useFetchData from "@/hooks/useFetchData";
 import { ImageProps } from "@/interfaces";
